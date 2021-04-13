@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Cvirtualz</title>
+  <title>你文哥の博客</title>
   
-  <subtitle>Cease to struggle and you cease to live</subtitle>
+  <subtitle>前端学习，不行就为人民服务</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
