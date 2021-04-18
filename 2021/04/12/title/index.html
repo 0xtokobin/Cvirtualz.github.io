@@ -236,7 +236,21 @@
                 <time title="修改时间：2021-04-15 16:07:07" itemprop="dateModified" datetime="2021-04-15T16:07:07+08:00">2021-04-15</time>
               </span>
 
-          <br>
+          
+  
+  <span class="post-meta-item">
+    
+      <span class="post-meta-item-icon">
+        <i class="far fa-comment"></i>
+      </span>
+      <span class="post-meta-item-text">Valine：</span>
+    
+    <a title="valine" href="/2021/04/12/title/#valine-comments" itemprop="discussionUrl">
+      <span class="post-comments-count valine-comment-count" data-xid="/2021/04/12/title/" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  <br>
             <span class="post-meta-item" title="本文字数">
               <span class="post-meta-item-icon">
                 <i class="far fa-file-word"></i>
@@ -312,10 +326,13 @@
 
         
     <div class="post-nav">
-      <div class="post-nav-item"></div>
       <div class="post-nav-item">
-    <a href="/2021/04/12/hexo%E6%80%8E%E4%B9%88%E5%86%99%E5%8D%9A%E5%AE%A2/" rel="next" title="hexo怎么写博客">
-      hexo怎么写博客 <i class="fa fa-chevron-right"></i>
+    <a href="/2021/04/12/hexo%E6%80%8E%E4%B9%88%E5%86%99%E5%8D%9A%E5%AE%A2/" rel="prev" title="hexo怎么写博客">
+      <i class="fa fa-chevron-left"></i> hexo怎么写博客
+    </a></div>
+      <div class="post-nav-item">
+    <a href="/2021/04/13/%E5%85%B3%E4%BA%8EHtml%E7%9A%84%E5%AD%A6%E4%B9%A0/" rel="next" title="关于Html基础的学习">
+      关于Html基础的学习 <i class="fa fa-chevron-right"></i>
     </a></div>
     </div>
       </footer>
@@ -329,6 +346,7 @@
 
           </div>
           
+    <div class="comments" id="valine-comments"></div>
 
 <script>
   window.addEventListener('tabs:register', () => {
@@ -435,12 +453,12 @@
     <span class="post-meta-item-icon">
       <i class="fa fa-chart-area"></i>
     </span>
-    <span title="站点总字数">1k</span>
+    <span title="站点总字数">2k</span>
     <span class="post-meta-divider">|</span>
     <span class="post-meta-item-icon">
       <i class="fa fa-coffee"></i>
     </span>
-    <span title="站点阅读时长">1 分钟</span>
+    <span title="站点阅读时长">2 分钟</span>
 </div>
 
 <!--
@@ -504,6 +522,35 @@
   
 
   
+
+
+<script>
+NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
+  NexT.utils.getScript('//unpkg.com/valine/dist/Valine.min.js', () => {
+    var GUEST = ['nick', 'mail', 'link'];
+    var guest = 'nick,mail,link';
+    guest = guest.split(',').filter(item => {
+      return GUEST.includes(item);
+    });
+    new Valine({
+      el         : '#valine-comments',
+      verify     : true,
+      notify     : true,
+      appId      : 'BOiF7fA8zps3Mk0OsyD9Czkt-gzGzoHsz',
+      appKey     : 'Xujmt5C1Oxme6xLsDTeNRTRR',
+      placeholder: "Just go go",
+      avatar     : 'mm',
+      meta       : guest,
+      pageSize   : '10' || 10,
+      visitor    : false,
+      lang       : '' || 'zh-cn',
+      path       : location.pathname,
+      recordIP   : false,
+      serverURLs : ''
+    });
+  }, window.Valine);
+});
+</script>
 
 
 

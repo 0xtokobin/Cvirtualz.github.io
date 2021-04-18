@@ -26,11 +26,8 @@
     <content type="html"><![CDATA[<p>昨天单词没背完，我开始懒起来了；争取每日学习3小时Html和背60单词以及听力的练习。希望四级能乱过。</p>]]></content>
     
     
-      
-      
     <summary type="html">&lt;p&gt;昨天单词没背完，我开始懒起来了；争取每日学习3小时Html和背60单词以及听力的练习。希望四级能乱过。&lt;/p&gt;
 </summary>
-      
     
     
     
@@ -47,11 +44,8 @@
     <content type="html"><![CDATA[<p>今天学校下雨，说实在话有点难受，早上的课学了些Html算是复习吧，毕竟之前学过，复习了些单词，每日必背60个。<br>报名了学校的网页设计大赛。</p>]]></content>
     
     
-      
-      
     <summary type="html">&lt;p&gt;今天学校下雨，说实在话有点难受，早上的课学了些Html算是复习吧，毕竟之前学过，复习了些单词，每日必背60个。&lt;br&gt;报名了学校的网页设计大赛。&lt;/p&gt;
 </summary>
-      
     
     
     
@@ -68,10 +62,8 @@
     <content type="html"><![CDATA[<h2 id="网站如下："><a href="#网站如下：" class="headerlink" title="网站如下："></a>网站如下：</h2><p> 1.<a href="https://www.runoob.com/">菜鸟教程</a><br> 2.<a href="http://www.lvyestudy.com/html/text-tags">绿叶学习网</a></p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;h2 id=&quot;网站如下：&quot;&gt;&lt;a href=&quot;#网站如下：&quot; class=&quot;headerlink&quot; title=&quot;网站如下：&quot;&gt;&lt;/a&gt;网站如下：&lt;/h2&gt;&lt;p&gt; 1.&lt;a href=&quot;https://www.runoob.com/&quot;&gt;菜鸟教程&lt;/a&gt;&lt;br&gt; 2.&lt;a hre</summary>
-      
+    <summary type="html">&lt;h2 id=&quot;网站如下：&quot;&gt;&lt;a href=&quot;#网站如下：&quot; class=&quot;headerlink&quot; title=&quot;网站如下：&quot;&gt;&lt;/a&gt;网站如下：&lt;/h2&gt;&lt;p&gt; 1.&lt;a href=&quot;https://www.runoob.com/&quot;&gt;菜鸟教程&lt;/a&gt;&lt;br&gt; 2.&lt;a href=&quot;http://www.lvyestudy.com/html/text-tags&quot;&gt;绿叶学习网&lt;/a&gt;&lt;/p&gt;
+</summary>
     
     
     
@@ -83,35 +75,17 @@
     <link href="http://example.com/2021/04/13/%E5%85%B3%E4%BA%8EHtml%E7%9A%84%E5%AD%A6%E4%B9%A0/"/>
     <id>http://example.com/2021/04/13/%E5%85%B3%E4%BA%8EHtml%E7%9A%84%E5%AD%A6%E4%B9%A0/</id>
     <published>2021-04-13T08:50:00.000Z</published>
-    <updated>2021-04-15T07:54:59.940Z</updated>
+    <updated>2021-04-17T09:52:00.229Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="1-Html-标题"><a href="#1-Html-标题" class="headerlink" title="1.Html 标题"></a>1.Html 标题</h1><p>通过&lt; h1&gt;-&lt; h6&gt; 标签来定义的；<br>实例：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&lt;h1&gt;这是一个标题&lt;&#x2F;h1&gt;</span><br><span class="line">&lt;h2&gt;这是一个标题&lt;&#x2F;h2&gt;</span><br><span class="line">&lt;h3&gt;这是一个标题&lt;&#x2F;h3&gt;</span><br></pre></td></tr></table></figure><h1 id="2-Html-段落"><a href="#2-Html-段落" class="headerlink" title="2.Html 段落"></a>2.Html 段落</h1><p>通过标签&lt; p&gt;来实现分段；<br>实例：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;p&gt;输入你要的内容&lt;p&gt;</span><br></pre></td></tr></table></figure><h1 id="3-Html-超链接的使用"><a href="#3-Html-超链接的使用" class="headerlink" title="3.Html 超链接的使用"></a>3.Html 超链接的使用</h1><p>通过标签&lt; a&gt;来实现；<br>实例：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;a href&#x3D;&quot;www.pornhub.com&quot;&gt; &lt;&#x2F;a&gt;</span><br></pre></td></tr></table></figure><p>注意别搞混这个地方&lt; a&gt;标签的使用也别忘记加上结束标签。</p><h1 id="4-Html-图像"><a href="#4-Html-图像" class="headerlink" title="4.Html 图像"></a>4.Html 图像</h1><p>通过标签<img>来实现；<br>实例：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;img &#x3D;&quot;&#x2F;images&#x2F;xxx.png&quot; width&#x3D;&quot;xxx&quot; height&#x3D;&quot;xxx&quot; &#x2F;&gt;</span><br></pre></td></tr></table></figure><p>长度和高度可自行设置更改；</p><h1 id="5"><a href="#5" class="headerlink" title="5."></a>5.</h1>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;1-Html-标题&quot;&gt;&lt;a href=&quot;#1-Html-标题&quot; class=&quot;headerlink&quot; title=&quot;1.Html 标题&quot;&gt;&lt;/a&gt;1.Html 标题&lt;/h1&gt;&lt;p&gt;通过&amp;lt; h1&amp;gt;-&amp;lt; h6&amp;gt; 标签来定义的；&lt;br&gt;实例：&lt;/</summary>
-      
+    <content type="html"><![CDATA[<h1 id="基本结构和定义"><a href="#基本结构和定义" class="headerlink" title="基本结构和定义"></a>基本结构和定义</h1><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">&lt;meta charset&#x3D;&quot;UTF-8&quot;&gt;</span><br><span class="line">表示防止字符其中乱码；</span><br><span class="line">&lt;html lang&#x3D;&quot;xx&quot;&gt;</span><br><span class="line">表示是哪种语言网站；</span><br><span class="line">Html常用编译工具VSCODE WEBSTORM SUBLIME;</span><br></pre></td></tr></table></figure><h1 id="1-Html-标题"><a href="#1-Html-标题" class="headerlink" title="1.Html 标题"></a>1.Html 标题</h1><p>通过&lt; h1&gt;-&lt; h6&gt; 标签来定义的；<br>实例：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&lt;h1&gt;这是一个标题&lt;&#x2F;h1&gt;</span><br><span class="line">&lt;h2&gt;这是一个标题&lt;&#x2F;h2&gt;</span><br><span class="line">&lt;h3&gt;这是一个标题&lt;&#x2F;h3&gt;</span><br></pre></td></tr></table></figure><h1 id="2-Html-段落"><a href="#2-Html-段落" class="headerlink" title="2.Html 段落"></a>2.Html 段落</h1><p>通过标签&lt; p&gt;来实现分段；<br>实例：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;p&gt;输入你要的内容&lt;p&gt;</span><br></pre></td></tr></table></figure><h1 id="3-Html-超链接的使用"><a href="#3-Html-超链接的使用" class="headerlink" title="3.Html 超链接的使用"></a>3.Html 超链接的使用</h1><p>通过标签&lt; a&gt;来实现；<br>实例：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;a href&#x3D;&quot;http:&#x2F;&#x2F;www.pornhub.com&quot;&gt; &lt;&#x2F;a&gt;</span><br></pre></td></tr></table></figure><p>注意别搞混这个地方&lt; a&gt;标签的使用也别忘记加上结束标签。<br>target 可以更改网页打开的弹窗方式；<br>http://别忘了加</p><h1 id="4-Html-图像"><a href="#4-Html-图像" class="headerlink" title="4.Html 图像"></a>4.Html 图像</h1><p>通过标签&lt; img src&gt;来实现；<br>实例：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;img src&#x3D;&quot;&#x2F;images&#x2F;xxx.png&quot; width&#x3D;&quot;xxx&quot; height&#x3D;&quot;xxx&quot; &#x2F;&gt;</span><br></pre></td></tr></table></figure><p>图像路径必须与HTML路径一致；<br>长度和高度可自行设置更改；</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&lt;title&gt;在图片上显示文字；</span><br><span class="line">&lt;img src&#x3D;&quot;&#x2F;images&#x2F;xxx.png&quot; width&#x3D;&quot;xxx&quot; height&#x3D;&quot;xxx&quot; title&#x3D;&quot;XXXXXX&quot;&#x2F;&gt;</span><br><span class="line">&lt;img src&#x3D;&quot;venv&#x2F;image&#x2F;xxx.jpg&quot;title&#x3D;&quot;xxxxxxx&quot;&#x2F;&gt;</span><br></pre></td></tr></table></figure><h1 id="5-Html-换行"><a href="#5-Html-换行" class="headerlink" title="5.Html 换行"></a>5.Html 换行</h1><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;br&#x2F;&gt;是一个单标签</span><br></pre></td></tr></table></figure><h1 id="6-文本格式化标签"><a href="#6-文本格式化标签" class="headerlink" title="6.文本格式化标签"></a>6.文本格式化标签</h1><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">&lt;strong&gt;&lt;&#x2F;strong&gt;;加粗</span><br><span class="line">&lt;b&gt;&lt;&#x2F;b&gt;;加粗</span><br><span class="line">&lt;em&gt;&lt;&#x2F;em&gt; 文字倾斜</span><br><span class="line">&lt;i&gt;&lt;&#x2F;i&gt; 加粗</span><br><span class="line">&lt;del&gt;&lt;&#x2F;del&gt; 删除线标签</span><br><span class="line">&lt;s&gt;&lt;&#x2F;s&gt; 删除线</span><br><span class="line">&lt;ins&gt;&lt;&#x2F;ins&gt; 下划线</span><br></pre></td></tr></table></figure><h1 id="7-lt-div-gt-与-lt-span-gt"><a href="#7-lt-div-gt-与-lt-span-gt" class="headerlink" title="7.&lt; div&gt;与&lt; span&gt;"></a>7.&lt; div&gt;与&lt; span&gt;</h1><p>&lt; div&gt;与 &lt; span&gt;是没有语义的，就比如一个盒子用来装内容的；</p><h1 id="8"><a href="#8" class="headerlink" title="8."></a>8.</h1>]]></content>
     
     
-    
-    
-  </entry>
-  
-  <entry>
-    <title>hexo怎么写博客</title>
-    <link href="http://example.com/2021/04/12/hexo%E6%80%8E%E4%B9%88%E5%86%99%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://example.com/2021/04/12/hexo%E6%80%8E%E4%B9%88%E5%86%99%E5%8D%9A%E5%AE%A2/</id>
-    <published>2021-04-12T11:49:36.000Z</published>
-    <updated>2021-04-14T05:00:51.986Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="首先新建文章"><a href="#首先新建文章" class="headerlink" title=".首先新建文章"></a>.首先新建文章</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">在gitbash或者cmd hexo目录下</span><br><span class="line"> 使用hexo new &quot;文章标题&quot;</span><br></pre></td></tr></table></figure><h1 id="Markdown的基本使用语法："><a href="#Markdown的基本使用语法：" class="headerlink" title="Markdown的基本使用语法："></a>Markdown的基本使用语法：</h1><h2 id="1-标题的使用"><a href="#1-标题的使用" class="headerlink" title="1.标题的使用"></a>1.标题的使用</h2><p>一个#加空格表示一级标题，二个##加上空格表示二级标题，以此类推一共可以达到六级标题。<br>比如######最多加到六级；</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;首先新建文章&quot;&gt;&lt;a href=&quot;#首先新建文章&quot; class=&quot;headerlink&quot; title=&quot;.首先新建文章&quot;&gt;&lt;/a&gt;.首先新建文章&lt;/h2&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;g</summary>
-      
+    <summary type="html">&lt;h1 id=&quot;基本结构和定义&quot;&gt;&lt;a href=&quot;#基本结构和定义&quot; class=&quot;headerlink&quot; title=&quot;基本结构和定义&quot;&gt;&lt;/a&gt;基本结构和定义&lt;/h1&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&amp;lt;meta charset&amp;#x3D;&amp;quot;UTF-8&amp;quot;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;表示防止字符其中乱码；&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;lt;html lang&amp;#x3D;&amp;quot;xx&amp;quot;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;表示是哪种语言网站；&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Html常用编译工具VSCODE WEBSTORM SUBLIME;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h1 id=&quot;1-Html-标题&quot;&gt;&lt;a href=&quot;#1-Html-标题&quot; class=&quot;headerlink&quot; title=&quot;1.Html 标题&quot;&gt;&lt;/a&gt;1.Html 标题&lt;/h1&gt;&lt;p&gt;通过&amp;lt; h1&amp;gt;-&amp;lt; h6&amp;gt; 标签来定义的；&lt;br&gt;实例：&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&amp;lt;h1&amp;gt;这是一个标题&amp;lt;&amp;#x2F;h1&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;lt;h2&amp;gt;这是一个标题&amp;lt;&amp;#x2F;h2&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;lt;h3&amp;gt;这是一个标题&amp;lt;&amp;#x2F;h3&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h1 id=&quot;2-Html-段落&quot;&gt;&lt;a href=&quot;#2-Html-段落&quot; class=&quot;headerlink&quot; title=&quot;2.Html 段落&quot;&gt;&lt;/a&gt;2.Html 段落&lt;/h1&gt;&lt;p&gt;通过标签&amp;lt; p&amp;gt;来实现分段；&lt;br&gt;实例：&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&amp;lt;p&amp;gt;输入你要的内容&amp;lt;p&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h1 id=&quot;3-Html-超链接的使用&quot;&gt;&lt;a href=&quot;#3-Html-超链接的使用&quot; class=&quot;headerlink&quot; title=&quot;3.Html 超链接的使用&quot;&gt;&lt;/a&gt;3.Html 超链接的使用&lt;/h1&gt;&lt;p&gt;通过标签&amp;lt; a&amp;gt;来实现；&lt;br&gt;实例：&lt;/p&gt;</summary>
     
     
     
@@ -128,10 +102,30 @@
     <content type="html"><![CDATA[<h2 id="首先新建文章"><a href="#首先新建文章" class="headerlink" title=".首先新建文章"></a>.首先新建文章</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">在gitbash或者cmd hexo目录下</span><br><span class="line"> 使用hexo new &quot;文章标题&quot;</span><br></pre></td></tr></table></figure><h1 id="Markdown的基本使用语法："><a href="#Markdown的基本使用语法：" class="headerlink" title="Markdown的基本使用语法："></a>Markdown的基本使用语法：</h1><h3 id="1-标题的使用"><a href="#1-标题的使用" class="headerlink" title="1.标题的使用"></a>1.标题的使用</h3><p>一个#加空格表示一级标题，二个##加上空格表示二级标题，以此类推一共可以达到六级标题。<br>比如######最多加到六级,字体逐渐变小；</p><h3 id="2-超链接的使用"><a href="#2-超链接的使用" class="headerlink" title="2.超链接的使用"></a>2.超链接的使用</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">[百度](http:&#x2F;&#x2F;www.baidu.com)</span><br></pre></td></tr></table></figure><p><a href="http://www.baidu.com/">百度</a></p><h3 id="3-代码块"><a href="#3-代码块" class="headerlink" title="3.代码块"></a>3.代码块</h3><p>分别用3个连续的符号<code>包裹代码，开头三个</code>末尾可写入指定的编程语言;<br>如以下C的用法；</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">&#96; &#96; &#96;c</span><br><span class="line">include &lt;stdio.h&gt;</span><br><span class="line">int main(void)</span><br><span class="line">&#123;</span><br><span class="line">printf(&quot;Hello world\n&quot;);</span><br><span class="line">&#125;</span><br><span class="line">&#96; &#96; &#96;</span><br><span class="line"></span><br></pre></td></tr></table></figure><h3 id="4-转义"><a href="#4-转义" class="headerlink" title="4.转义"></a>4.转义</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">\\ \* \&#96; </span><br></pre></td></tr></table></figure><h3 id="5-缩进、换行、空行、对齐方式"><a href="#5-缩进、换行、空行、对齐方式" class="headerlink" title="5.缩进、换行、空行、对齐方式"></a>5.缩进、换行、空行、对齐方式</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">【1】 &amp;emsp;或&amp;#8195; &#x2F;&#x2F;全角</span><br><span class="line">【2】 &amp;ensp;或&amp;#8194; &#x2F;&#x2F;半角</span><br><span class="line">【3】 &amp;nbsp;或&amp;#160;  &#x2F;&#x2F;半角之半角</span><br></pre></td></tr></table></figure>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;h2 id=&quot;首先新建文章&quot;&gt;&lt;a href=&quot;#首先新建文章&quot; class=&quot;headerlink&quot; title=&quot;.首先新建文章&quot;&gt;&lt;/a&gt;.首先新建文章&lt;/h2&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;g</summary>
-      
+    <summary type="html">&lt;h2 id=&quot;首先新建文章&quot;&gt;&lt;a href=&quot;#首先新建文章&quot; class=&quot;headerlink&quot; title=&quot;.首先新建文章&quot;&gt;&lt;/a&gt;.首先新建文章&lt;/h2&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;在gitbash或者cmd hexo目录下&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; 使用hexo new &amp;quot;文章标题&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h1 id=&quot;Markdown的基本使用语法：&quot;&gt;&lt;a href=&quot;#Markdown的基本使用语法：&quot; class=&quot;headerlink&quot; title=&quot;Markdown的基本使用语法：&quot;&gt;&lt;/a&gt;Markdown的基本使用语法：&lt;/h1&gt;&lt;h3 id=&quot;1-标题的使用&quot;&gt;&lt;a href=&quot;#1-标题的使用&quot; class=&quot;headerlink&quot; title=&quot;1.标题的使用&quot;&gt;&lt;/a&gt;1.标题的使用&lt;/h3&gt;&lt;p&gt;一个#加空格表示一级标题，二个##加上空格表示二级标题，以此类推一共可以达到六级标题。&lt;br&gt;比如######最多加到六级,字体逐渐变小；&lt;/p&gt;
+&lt;h3 id=&quot;2-超链接的使用&quot;&gt;&lt;a href=&quot;#2-超链接的使用&quot; class=&quot;headerlink&quot; title=&quot;2.超链接的使用&quot;&gt;&lt;/a&gt;2.超链接的使用&lt;/h3&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;[百度](http:&amp;#x2F;&amp;#x2F;www.baidu.com)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.baidu.com/&quot;&gt;百度&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;3-代码块&quot;&gt;&lt;a href=&quot;#3-代码块&quot; class=&quot;headerlink&quot; title=&quot;3.代码块&quot;&gt;&lt;/a&gt;3.代码块&lt;/h3&gt;&lt;p&gt;分别用3个连续的符号&lt;code&gt;包裹代码，开头三个&lt;/code&gt;末尾可写入指定的编程语言;&lt;br&gt;如以下C的用法；&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>hexo怎么写博客</title>
+    <link href="http://example.com/2021/04/12/hexo%E6%80%8E%E4%B9%88%E5%86%99%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://example.com/2021/04/12/hexo%E6%80%8E%E4%B9%88%E5%86%99%E5%8D%9A%E5%AE%A2/</id>
+    <published>2021-04-12T11:49:36.000Z</published>
+    <updated>2021-04-14T05:00:51.986Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="首先新建文章"><a href="#首先新建文章" class="headerlink" title=".首先新建文章"></a>.首先新建文章</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">在gitbash或者cmd hexo目录下</span><br><span class="line"> 使用hexo new &quot;文章标题&quot;</span><br></pre></td></tr></table></figure><h1 id="Markdown的基本使用语法："><a href="#Markdown的基本使用语法：" class="headerlink" title="Markdown的基本使用语法："></a>Markdown的基本使用语法：</h1><h2 id="1-标题的使用"><a href="#1-标题的使用" class="headerlink" title="1.标题的使用"></a>1.标题的使用</h2><p>一个#加空格表示一级标题，二个##加上空格表示二级标题，以此类推一共可以达到六级标题。<br>比如######最多加到六级；</p>]]></content>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;首先新建文章&quot;&gt;&lt;a href=&quot;#首先新建文章&quot; class=&quot;headerlink&quot; title=&quot;.首先新建文章&quot;&gt;&lt;/a&gt;.首先新建文章&lt;/h2&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;在gitbash或者cmd hexo目录下&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; 使用hexo new &amp;quot;文章标题&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h1 id=&quot;Markdown的基本使用语法：&quot;&gt;&lt;a href=&quot;#Markdown的基本使用语法：&quot; class=&quot;headerlink&quot; title=&quot;Markdown的基本使用语法：&quot;&gt;&lt;/a&gt;Markdown的基本使用语法：&lt;/h1&gt;&lt;h2 id=&quot;1-标题的使用&quot;&gt;&lt;a href=&quot;#1-标题的使用&quot; class=&quot;headerlink&quot; title=&quot;1.标题的使用&quot;&gt;&lt;/a&gt;1.标题的使用&lt;/h2&gt;&lt;p&gt;一个#加空格表示一级标题，二个##加上空格表示二级标题，以此类推一共可以达到六级标题。&lt;br&gt;比如######最多加到六级；&lt;/p&gt;
+</summary>
     
     
     
