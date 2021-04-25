@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>css</title>
+    <url>/2021/04/22/css/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>c lauguage 笔记</title>
+    <url>/2021/04/20/c-language/</url>
+    <content><![CDATA[<h1 id="枚举"><a href="#枚举" class="headerlink" title="枚举"></a>枚举</h1><p>枚举是一种用户定义的数据类型，它用关键字enum</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">enum 枚举类型名字（名字0，名字n);</span><br></pre></td></tr></table></figure>
+<h1 id="结构的声明"><a href="#结构的声明" class="headerlink" title="结构的声明"></a>结构的声明</h1><p>struct tag<br>{</p>
+<p>}</p>
+]]></content>
+  </entry>
+  <entry>
     <title>hexo怎么写博客</title>
     <url>/2021/04/12/hexo%E6%80%8E%E4%B9%88%E5%86%99%E5%8D%9A%E5%AE%A2/</url>
     <content><![CDATA[<h2 id="首先新建文章"><a href="#首先新建文章" class="headerlink" title=".首先新建文章"></a>.首先新建文章</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">在gitbash或者cmd hexo目录下</span><br><span class="line"> 使用hexo new &quot;文章标题&quot;</span><br></pre></td></tr></table></figure>
@@ -8,9 +22,10 @@
 ]]></content>
   </entry>
   <entry>
-    <title>css</title>
-    <url>/2021/04/22/css/</url>
-    <content><![CDATA[]]></content>
+    <title>前端学习常用网站</title>
+    <url>/2021/04/13/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E5%B8%B8%E7%94%A8%E7%BD%91%E7%AB%99/</url>
+    <content><![CDATA[<h2 id="网站如下："><a href="#网站如下：" class="headerlink" title="网站如下："></a>网站如下：</h2><p> 1.<a href="https://www.runoob.com/">菜鸟教程</a><br> 2.<a href="http://www.lvyestudy.com/html/text-tags">绿叶学习网</a></p>
+]]></content>
   </entry>
   <entry>
     <title>hexo怎么写博客</title>
@@ -23,21 +38,6 @@
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#96; &#96; &#96;c</span><br><span class="line">include &lt;stdio.h&gt;</span><br><span class="line">int main(void)</span><br><span class="line">&#123;</span><br><span class="line">printf(&quot;Hello world\n&quot;);</span><br><span class="line">&#125;</span><br><span class="line">&#96; &#96; &#96;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
 <h3 id="4-转义"><a href="#4-转义" class="headerlink" title="4.转义"></a>4.转义</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">\\ \* \&#96; </span><br></pre></td></tr></table></figure>
 <h3 id="5-缩进、换行、空行、对齐方式"><a href="#5-缩进、换行、空行、对齐方式" class="headerlink" title="5.缩进、换行、空行、对齐方式"></a>5.缩进、换行、空行、对齐方式</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">【1】 &amp;emsp;或&amp;#8195; &#x2F;&#x2F;全角</span><br><span class="line">【2】 &amp;ensp;或&amp;#8194; &#x2F;&#x2F;半角</span><br><span class="line">【3】 &amp;nbsp;或&amp;#160;  &#x2F;&#x2F;半角之半角</span><br></pre></td></tr></table></figure>
-]]></content>
-  </entry>
-  <entry>
-    <title>c lauguage 笔记</title>
-    <url>/2021/04/20/c-language/</url>
-    <content><![CDATA[<h1 id="枚举"><a href="#枚举" class="headerlink" title="枚举"></a>枚举</h1><p>枚举是一种用户定义的数据类型，它用关键字enum</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">enum 枚举类型名字（名字0，名字n);</span><br></pre></td></tr></table></figure>
-<h1 id="结构的声明"><a href="#结构的声明" class="headerlink" title="结构的声明"></a>结构的声明</h1><p>struct tag<br>{</p>
-<p>}</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>前端学习常用网站</title>
-    <url>/2021/04/13/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E5%B8%B8%E7%94%A8%E7%BD%91%E7%AB%99/</url>
-    <content><![CDATA[<h2 id="网站如下："><a href="#网站如下：" class="headerlink" title="网站如下："></a>网站如下：</h2><p> 1.<a href="https://www.runoob.com/">菜鸟教程</a><br> 2.<a href="http://www.lvyestudy.com/html/text-tags">绿叶学习网</a></p>
 ]]></content>
   </entry>
   <entry>
