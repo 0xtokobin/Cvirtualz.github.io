@@ -1,141 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>css</title>
-    <url>/2021/04/22/css/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>c lauguage 笔记</title>
-    <url>/2021/04/20/c-language/</url>
-    <content><![CDATA[<h1 id="枚举"><a href="#枚举" class="headerlink" title="枚举"></a>枚举</h1><p>枚举是一种用户定义的数据类型，它用关键字enum</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">enum 枚举类型名字（名字0，名字n);</span><br></pre></td></tr></table></figure>
-<h1 id="结构的声明"><a href="#结构的声明" class="headerlink" title="结构的声明"></a>结构的声明</h1><p>struct tag<br>{</p>
-<p>}</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>hexo怎么写博客</title>
-    <url>/2021/04/12/hexo%E6%80%8E%E4%B9%88%E5%86%99%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<h2 id="首先新建文章"><a href="#首先新建文章" class="headerlink" title=".首先新建文章"></a>.首先新建文章</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">在gitbash或者cmd hexo目录下</span><br><span class="line"> 使用hexo new &quot;文章标题&quot;</span><br></pre></td></tr></table></figure>
-<h1 id="Markdown的基本使用语法："><a href="#Markdown的基本使用语法：" class="headerlink" title="Markdown的基本使用语法："></a>Markdown的基本使用语法：</h1><h2 id="1-标题的使用"><a href="#1-标题的使用" class="headerlink" title="1.标题的使用"></a>1.标题的使用</h2><p>一个#加空格表示一级标题，二个##加上空格表示二级标题，以此类推一共可以达到六级标题。<br>比如######最多加到六级；</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>前端学习常用网站</title>
-    <url>/2021/04/13/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E5%B8%B8%E7%94%A8%E7%BD%91%E7%AB%99/</url>
-    <content><![CDATA[<h2 id="网站如下："><a href="#网站如下：" class="headerlink" title="网站如下："></a>网站如下：</h2><p> 1.<a href="https://www.runoob.com/">菜鸟教程</a><br> 2.<a href="http://www.lvyestudy.com/html/text-tags">绿叶学习网</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>hexo怎么写博客</title>
-    <url>/2021/04/12/title/</url>
-    <content><![CDATA[<h2 id="首先新建文章"><a href="#首先新建文章" class="headerlink" title=".首先新建文章"></a>.首先新建文章</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">在gitbash或者cmd hexo目录下</span><br><span class="line"> 使用hexo new &quot;文章标题&quot;</span><br></pre></td></tr></table></figure>
-<h1 id="Markdown的基本使用语法："><a href="#Markdown的基本使用语法：" class="headerlink" title="Markdown的基本使用语法："></a>Markdown的基本使用语法：</h1><h3 id="1-标题的使用"><a href="#1-标题的使用" class="headerlink" title="1.标题的使用"></a>1.标题的使用</h3><p>一个#加空格表示一级标题，二个##加上空格表示二级标题，以此类推一共可以达到六级标题。<br>比如######最多加到六级,字体逐渐变小；</p>
-<h3 id="2-超链接的使用"><a href="#2-超链接的使用" class="headerlink" title="2.超链接的使用"></a>2.超链接的使用</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">[百度](http:&#x2F;&#x2F;www.baidu.com)</span><br></pre></td></tr></table></figure>
-<p><a href="http://www.baidu.com/">百度</a></p>
-<h3 id="3-代码块"><a href="#3-代码块" class="headerlink" title="3.代码块"></a>3.代码块</h3><p>分别用3个连续的符号<code>包裹代码，开头三个</code>末尾可写入指定的编程语言;<br>如以下C的用法；</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#96; &#96; &#96;c</span><br><span class="line">include &lt;stdio.h&gt;</span><br><span class="line">int main(void)</span><br><span class="line">&#123;</span><br><span class="line">printf(&quot;Hello world\n&quot;);</span><br><span class="line">&#125;</span><br><span class="line">&#96; &#96; &#96;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-<h3 id="4-转义"><a href="#4-转义" class="headerlink" title="4.转义"></a>4.转义</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">\\ \* \&#96; </span><br></pre></td></tr></table></figure>
-<h3 id="5-缩进、换行、空行、对齐方式"><a href="#5-缩进、换行、空行、对齐方式" class="headerlink" title="5.缩进、换行、空行、对齐方式"></a>5.缩进、换行、空行、对齐方式</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">【1】 &amp;emsp;或&amp;#8195; &#x2F;&#x2F;全角</span><br><span class="line">【2】 &amp;ensp;或&amp;#8194; &#x2F;&#x2F;半角</span><br><span class="line">【3】 &amp;nbsp;或&amp;#160;  &#x2F;&#x2F;半角之半角</span><br></pre></td></tr></table></figure>
-]]></content>
-  </entry>
-  <entry>
-    <title>关于Html基础的学习</title>
-    <url>/2021/04/13/%E5%85%B3%E4%BA%8EHtml%E7%9A%84%E5%AD%A6%E4%B9%A0/</url>
-    <content><![CDATA[<h1 id="基本结构和定义"><a href="#基本结构和定义" class="headerlink" title="基本结构和定义"></a>基本结构和定义</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;meta charset&#x3D;&quot;UTF-8&quot;&gt;</span><br><span class="line">表示防止字符其中乱码；</span><br><span class="line">&lt;html lang&#x3D;&quot;xx&quot;&gt;</span><br><span class="line">表示是哪种语言网站；</span><br><span class="line">Html常用编译工具VSCODE WEBSTORM SUBLIME;</span><br></pre></td></tr></table></figure>
-<h1 id="1-Html-标题"><a href="#1-Html-标题" class="headerlink" title="1.Html 标题"></a>1.Html 标题</h1><p>通过&lt; h1&gt;-&lt; h6&gt; 标签来定义的；<br>实例：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;h1&gt;这是一个标题&lt;&#x2F;h1&gt;</span><br><span class="line">&lt;h2&gt;这是一个标题&lt;&#x2F;h2&gt;</span><br><span class="line">&lt;h3&gt;这是一个标题&lt;&#x2F;h3&gt;</span><br></pre></td></tr></table></figure>
-<h1 id="2-Html-段落"><a href="#2-Html-段落" class="headerlink" title="2.Html 段落"></a>2.Html 段落</h1><p>通过标签&lt; p&gt;来实现分段；<br>实例：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;p&gt;输入你要的内容&lt;p&gt;</span><br></pre></td></tr></table></figure>
-<h1 id="3-Html-超链接的使用"><a href="#3-Html-超链接的使用" class="headerlink" title="3.Html 超链接的使用"></a>3.Html 超链接的使用</h1><p>通过标签&lt; a&gt;来实现；<br>实例：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;a href&#x3D;&quot;http:&#x2F;&#x2F;www.pornhub.com&quot;&gt; &lt;&#x2F;a&gt;</span><br></pre></td></tr></table></figure>
-<p>注意别搞混这个地方&lt; a&gt;标签的使用也别忘记加上结束标签。<br>target 可以更改网页打开的弹窗方式；<br>http://别忘了加</p>
-<h1 id="4-Html-图像"><a href="#4-Html-图像" class="headerlink" title="4.Html 图像"></a>4.Html 图像</h1><p>通过标签&lt; img src&gt;来实现；<br>实例：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;img src&#x3D;&quot;&#x2F;images&#x2F;xxx.png&quot; width&#x3D;&quot;xxx&quot; height&#x3D;&quot;xxx&quot; &#x2F;&gt;</span><br></pre></td></tr></table></figure>
-<p>图像路径必须与HTML路径一致；<br>长度和高度可自行设置更改；</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;title&gt;在图片上显示文字；</span><br><span class="line">&lt;img src&#x3D;&quot;&#x2F;images&#x2F;xxx.png&quot; width&#x3D;&quot;xxx&quot; height&#x3D;&quot;xxx&quot; title&#x3D;&quot;XXXXXX&quot;&#x2F;&gt;</span><br><span class="line">&lt;img src&#x3D;&quot;venv&#x2F;image&#x2F;xxx.jpg&quot;title&#x3D;&quot;xxxxxxx&quot;&#x2F;&gt;</span><br></pre></td></tr></table></figure>
-<h1 id="5-Html-换行"><a href="#5-Html-换行" class="headerlink" title="5.Html 换行"></a>5.Html 换行</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;br&#x2F;&gt;是一个单标签</span><br></pre></td></tr></table></figure>
-<h1 id="6-文本格式化标签"><a href="#6-文本格式化标签" class="headerlink" title="6.文本格式化标签"></a>6.文本格式化标签</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;strong&gt;&lt;&#x2F;strong&gt;;加粗</span><br><span class="line">&lt;b&gt;&lt;&#x2F;b&gt;;加粗</span><br><span class="line">&lt;em&gt;&lt;&#x2F;em&gt; 文字倾斜</span><br><span class="line">&lt;i&gt;&lt;&#x2F;i&gt; 加粗</span><br><span class="line">&lt;del&gt;&lt;&#x2F;del&gt; 删除线标签</span><br><span class="line">&lt;s&gt;&lt;&#x2F;s&gt; 删除线</span><br><span class="line">&lt;ins&gt;&lt;&#x2F;ins&gt; 下划线</span><br></pre></td></tr></table></figure>
-<h1 id="7-lt-div-gt-与-lt-span-gt"><a href="#7-lt-div-gt-与-lt-span-gt" class="headerlink" title="7.&lt; div&gt;与&lt; span&gt;"></a>7.&lt; div&gt;与&lt; span&gt;</h1><p>&lt; div&gt;与 &lt; span&gt;是没有语义的，就比如一个盒子用来装内容的；</p>
-<h1 id="8-瞄点链接"><a href="#8-瞄点链接" class="headerlink" title="8. 瞄点链接"></a>8. 瞄点链接</h1><p>点击链接，可以快速定位到我们的位置；<br>在链接文本的href属性中，设置属性值为#名字的形式；</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;a href&#x3D;&quot;#xx&quot;&gt;&lt;&#x2F;a&gt;</span><br></pre></td></tr></table></figure>
-<h1 id="9-特殊字符和注释"><a href="#9-特殊字符和注释" class="headerlink" title="9.特殊字符和注释"></a>9.特殊字符和注释</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;!--xxxx--&gt;</span><br><span class="line">ctrl+&#x2F;快速实现注释;</span><br></pre></td></tr></table></figure>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">特殊字符大全；</span><br><span class="line">&lt;	&lt;	小于号或显示标记</span><br><span class="line">&gt;	&gt;	大于号或显示标记</span><br><span class="line">&amp;	&amp;	可用于显示其它特殊字符</span><br><span class="line">&quot;	“	引号</span><br><span class="line">&amp;reg;	®	已注册</span><br><span class="line">&amp;copy;	©	版权</span><br><span class="line">&amp;trade;	™	商标</span><br><span class="line">&amp;ensp;		半个空白位</span><br><span class="line">&amp;emsp;		一个空白位</span><br><span class="line">&amp;nbsp;		不断行的空白</span><br></pre></td></tr></table></figure>
-<h1 id="10-表格标签"><a href="#10-表格标签" class="headerlink" title="10.表格标签"></a>10.表格标签</h1><p>&lt; table&gt; 标签定义 HTML 表格。</p>
-<p>简单的 HTML 表格由 table 元素以及一个或多个 tr、th 或 td 元素组成。</p>
-<p>tr 元素定义表格行，th 元素定义表头，td 元素定义表格单元。</p>
-<p>更复杂的 HTML 表格也可能包括 caption、col、colgroup、thead、tfoot 以及 tbody 元素。</p>
-<h1 id="11-有序列表，无序列表，自定义列表"><a href="#11-有序列表，无序列表，自定义列表" class="headerlink" title="11.有序列表，无序列表，自定义列表"></a>11.有序列表，无序列表，自定义列表</h1><p>无序列表使用</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;ul&gt; </span><br><span class="line">    &lt;li&gt;&lt;&#x2F;li&gt; </span><br><span class="line">    &lt;li&gt;&lt;&#x2F;li&gt; </span><br><span class="line">    &lt;li&gt;&lt;&#x2F;li&gt; </span><br><span class="line">&lt;&#x2F;ul&gt;</span><br></pre></td></tr></table></figure>
-<p>有序使用</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;ol&gt;</span><br><span class="line">    &lt;li&gt;&lt;&#x2F;li&gt; </span><br><span class="line">    &lt;li&gt;&lt;&#x2F;li&gt; </span><br><span class="line">    &lt;li&gt;&lt;&#x2F;li&gt; </span><br><span class="line">&lt;ol&gt;</span><br></pre></td></tr></table></figure>
-<h1 id="12-自定义列表"><a href="#12-自定义列表" class="headerlink" title="12.自定义列表"></a>12.自定义列表</h1><p>自定义列表不仅仅是一列项目，而是项目及其注释的组合。<br>自定义列表以 &lt; dl&gt; 标签开始。每个自定义列表项以 &lt; dt&gt; 开始。每个自定义列表项的定义以 &lt; dd&gt; 开始。</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;dl&gt;</span><br><span class="line">&lt;dt&gt;Coffee&lt;&#x2F;dt&gt;</span><br><span class="line">&lt;dd&gt;Black hot drink&lt;&#x2F;dd&gt;</span><br><span class="line">&lt;dt&gt;Milk&lt;&#x2F;dt&gt;</span><br><span class="line">&lt;dd&gt;White cold drink&lt;&#x2F;dd&gt;</span><br><span class="line">&lt;&#x2F;dl&gt;</span><br></pre></td></tr></table></figure>
-<p>浏览器显示如下：<br>Coffee<br>Black hot drink<br>Milk<br>White cold drink</p>
-<h1 id="13-表单"><a href="#13-表单" class="headerlink" title="13.表单"></a>13.表单</h1><p>一.form标签</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;form&gt;</span><br><span class="line">    &#x2F;&#x2F;各种表单标签</span><br><span class="line">&lt;&#x2F;form&gt;</span><br></pre></td></tr></table></figure>
-<p>form 标签属性<br>属性    说明<br>name    表单名称<br>method    提交方式<br>action    提交地址<br>target    打开方式<br>enctype    编码方式</p>
-<p>1．name属性<br>举例：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;form name&#x3D;&quot;myForm&quot;&gt;&lt;&#x2F;form&gt;</span><br></pre></td></tr></table></figure>
-<ol start="2">
-<li>method属性<br>在form标签中，method属性用于指定表单数据使用哪一种http提交方法。method属性取值有两个：一个是“get”，另外一个是“post”。<br>举例：<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;form method&#x3D;&quot;post&quot;&gt;&lt;&#x2F;form&gt;</span><br></pre></td></tr></table></figure>
-3．action属性<br>在form标签中，action属性用于指定表单数据提交到哪一个地址进行处理。<br>举例：<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;form action&#x3D;&quot;index.php&quot;&gt;&lt;&#x2F;form&gt;</span><br></pre></td></tr></table></figure></li>
-<li>target属性<br>form标签的target属性跟a标签的target属性是一样的，都是用来指定窗口的打开方式。一般情况下，我们只会用到“_blank”这一个属性值。<br>举例：<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;form target&#x3D;&quot;_blank&quot;&gt;&lt;&#x2F;form&gt;</span><br></pre></td></tr></table></figure>
-5．enctype属性<br>在form标签中，enctype属性用于指定表单数据提交的编码方式。一般情况下，我们不需要设置，除非你用到上传文件功能。<br>二.input标签<br>语法：<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;input type&#x3D;&quot;表单类型&quot; &#x2F;&gt;</span><br></pre></td></tr></table></figure>
-text 　　   定义单行的输入字段，用户可在其中输入文本<br>　　password   定义密码字段。该字段中的字符被掩码</li>
-</ol>
-<p>　　file 　　　 定义输入字段和 “浏览”按钮，供文件上传</p>
-<p>　　radio　　  定义单选按钮</p>
-<p>　　checkbox   定义复选框</p>
-<p>　　hidden 　  定义隐藏的输入字段</p>
-<p>　　button 　　定义可点击按钮（多数情况下，用于通过JavaScript启动脚本）</p>
-<p>　　image 　　定义图像形式的提交按钮</p>
-<p>　　reset 　　 定义重置按钮。重置按钮会清除表单中的所有数据</p>
-<p>　　submit 　  定义提交按钮。提交按钮会把表单数据发送到服务器</p>
-<p>text<br>　　type=”text”表示一个文本输入框，它是默认的输入类型，是一个单行的控件，一般是一个带有内嵌框的矩形 </p>
-<p>password<br>　　type=”password”表示一个密码输入框，它与文本输入框几乎一模一样，功能上唯一的不同的字母输入后会被隐藏，一般是一连串的点 </p>
-<h2 id="使用单选框时"><a href="#使用单选框时" class="headerlink" title="使用单选框时"></a>使用单选框时</h2><h3 id="注意忽略点"><a href="#注意忽略点" class="headerlink" title="注意忽略点"></a>注意忽略点</h3><p>很多小伙伴没有深入了解单选框，在平常开发时经常会忘记加上name属性，或者对于name属性随便写就算了。如果没有加上name属性，当我们选取的时候，会发现居然可以同时选中两个选项。</p>
-<h2 id="普通按钮button"><a href="#普通按钮button" class="headerlink" title="普通按钮button"></a>普通按钮button</h2><p>举例：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;input type&#x3D;&quot;button&quot; value&#x3D;&quot;取值&quot; &#x2F;&gt;</span><br></pre></td></tr></table></figure>
-<p>value的取值就是按钮上的文字。</p>
-<h2 id="提交按钮submit"><a href="#提交按钮submit" class="headerlink" title="提交按钮submit"></a>提交按钮submit</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;input type&#x3D;&quot;submit&quot; value&#x3D;&quot;取值&quot; &#x2F;&gt;</span><br></pre></td></tr></table></figure>
-<p>value的取值就是按钮上的文字。</p>
-<h2 id="重置按钮reset"><a href="#重置按钮reset" class="headerlink" title="重置按钮reset"></a>重置按钮reset</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;input type&#x3D;&quot;reset&quot; value&#x3D;&quot;取值&quot; &#x2F;&gt;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-<h2 id="button标签"><a href="#button标签" class="headerlink" title="button标签"></a>button标签</h2><p>普通按钮、提交按钮以及重置按钮这3种按钮都是使用input标签来实现的。其实还有一种按钮是使用button标签来实现的。<br>语法:</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;button&gt;&lt;&#x2F;button&gt;</span><br></pre></td></tr></table></figure>
-<h1 id="14-文件上传"><a href="#14-文件上传" class="headerlink" title="14. 文件上传"></a>14. 文件上传</h1><p>语法：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;input type&#x3D;&quot;file&quot; &#x2F;&gt;</span><br></pre></td></tr></table></figure>
-<h1 id="15-多行文本框"><a href="#15-多行文本框" class="headerlink" title="15. 多行文本框"></a>15. 多行文本框</h1><p>语法：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;textarea rows&#x3D;&quot;行数&quot; cols&#x3D;&quot;列数&quot; value&#x3D;&quot;取值&quot;&gt;默认内容&lt;&#x2F;textarea&gt;</span><br></pre></td></tr></table></figure>
-<h1 id="16-下拉列表"><a href="#16-下拉列表" class="headerlink" title="16.下拉列表"></a>16.下拉列表</h1><p>标签&lt; select&gt;的用法如下：<br>语法：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;select&gt;</span><br><span class="line">    &lt;option&gt;选项内容&lt;&#x2F;option&gt;</span><br><span class="line">    ……</span><br><span class="line">    &lt;option&gt;选项内容&lt;&#x2F;option&gt;</span><br><span class="line">&lt;&#x2F;select&gt;</span><br></pre></td></tr></table></figure>
-<h2 id="标签属性"><a href="#标签属性" class="headerlink" title="标签属性"></a><select>标签属性</h2><pre><code>multiple    设置下拉列表可以选择多项
-size    设置下拉列表显示几个列表项，取值为整数
-</code></pre>
-<p>举例：multiple属性</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;select multiple&gt;</span><br><span class="line">            &lt;option&gt;HTML&lt;&#x2F;option&gt;</span><br><span class="line">            &lt;option&gt;CSS&lt;&#x2F;option&gt;</span><br><span class="line">            &lt;option&gt;jQuery&lt;&#x2F;option&gt;           </span><br><span class="line">        &lt;&#x2F;select&gt;</span><br></pre></td></tr></table></figure>
-<p>举例：size属性</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;select size&#x3D;&quot;5&quot;&gt;</span><br><span class="line">            &lt;option&gt;HTML&lt;&#x2F;option&gt;</span><br><span class="line">            &lt;option&gt;CSS&lt;&#x2F;option&gt;</span><br><span class="line">            &lt;option&gt;jQuery&lt;&#x2F;option&gt;</span><br><span class="line">            &lt;option&gt;JavaScript&lt;&#x2F;option&gt;</span><br><span class="line">            &lt;option&gt;Vue.js&lt;&#x2F;option&gt;</span><br><span class="line">            &lt;option&gt;HTML5&lt;&#x2F;option&gt;</span><br><span class="line">            &lt;option&gt;CSS3&lt;&#x2F;option&gt;</span><br><span class="line">        &lt;&#x2F;select&gt;</span><br></pre></td></tr></table></figure>
-<h2 id="option标签属性"><a href="#option标签属性" class="headerlink" title="option标签属性"></a>option标签属性</h2><p>selected    是否选中<br>value    选项值<br>举例：selected属性</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;select size&#x3D;&quot;5&quot;&gt;</span><br><span class="line">            &lt;option&gt;HTML&lt;&#x2F;option&gt;</span><br><span class="line">            &lt;option&gt;CSS&lt;&#x2F;option&gt;</span><br><span class="line">            &lt;option selected&gt;jQuery&lt;&#x2F;option&gt;</span><br><span class="line">            &lt;option&gt;JavaScript&lt;&#x2F;option&gt;</span><br><span class="line">            &lt;option&gt;Vue.js&lt;&#x2F;option&gt;</span><br><span class="line">            &lt;option&gt;HTML5&lt;&#x2F;option&gt;</span><br><span class="line">            &lt;option&gt;CSS3&lt;&#x2F;option&gt;</span><br><span class="line">        &lt;&#x2F;select&gt;</span><br></pre></td></tr></table></figure>
-<pre><code>   html的基本语法就是这些了。。。。
-
-   
+<search> 
   
-</code></pre>
-]]></content>
-  </entry>
-  <entry>
-    <title>学习日记一“</title>
-    <url>/2021/04/14/%E5%AD%A6%E4%B9%A0%E6%97%A5%E8%AE%B0%E4%B8%80%E2%80%9C/</url>
-    <content><![CDATA[<p>今天学校下雨，说实在话有点难受，早上的课学了些Html算是复习吧，毕竟之前学过，复习了些单词，每日必背60个。<br>报名了学校的网页设计大赛。</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>学习日记二</title>
-    <url>/2021/04/15/%E5%AD%A6%E4%B9%A0%E6%97%A5%E8%AE%B0/</url>
-    <content><![CDATA[<p>昨天单词没背完，我开始懒起来了；争取每日学习3小时Html和背60单词以及听力的练习。希望四级能乱过。</p>
-]]></content>
-  </entry>
+  
+    
+    <entry>
+      <title>css</title>
+      <link href="2021/04/22/css/"/>
+      <url>2021/04/22/css/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>c lauguage 笔记</title>
+      <link href="2021/04/20/c-language/"/>
+      <url>2021/04/20/c-language/</url>
+      
+        <content type="html"><![CDATA[<h1 id="枚举"><a href="#枚举" class="headerlink" title="枚举"></a>枚举</h1><p>枚举是一种用户定义的数据类型，它用关键字enum</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">enum 枚举类型名字（名字0，名字n);</span><br></pre></td></tr></table></figure><h1 id="结构的声明"><a href="#结构的声明" class="headerlink" title="结构的声明"></a>结构的声明</h1><p>struct tag<br>{</p><p>}</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>学习日记二</title>
+      <link href="2021/04/15/%E5%AD%A6%E4%B9%A0%E6%97%A5%E8%AE%B0/"/>
+      <url>2021/04/15/%E5%AD%A6%E4%B9%A0%E6%97%A5%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[<p>昨天单词没背完，我开始懒起来了；争取每日学习3小时Html和背60单词以及听力的练习。希望四级能乱过。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>学习日记一“</title>
+      <link href="2021/04/14/%E5%AD%A6%E4%B9%A0%E6%97%A5%E8%AE%B0%E4%B8%80%E2%80%9C/"/>
+      <url>2021/04/14/%E5%AD%A6%E4%B9%A0%E6%97%A5%E8%AE%B0%E4%B8%80%E2%80%9C/</url>
+      
+        <content type="html"><![CDATA[<p>今天学校下雨，说实在话有点难受，早上的课学了些Html算是复习吧，毕竟之前学过，复习了些单词，每日必背60个。<br>报名了学校的网页设计大赛。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>前端学习常用网站</title>
+      <link href="2021/04/13/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E5%B8%B8%E7%94%A8%E7%BD%91%E7%AB%99/"/>
+      <url>2021/04/13/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E5%B8%B8%E7%94%A8%E7%BD%91%E7%AB%99/</url>
+      
+        <content type="html"><![CDATA[<h2 id="网站如下："><a href="#网站如下：" class="headerlink" title="网站如下："></a>网站如下：</h2><p> 1.<a href="https://www.runoob.com/">菜鸟教程</a><br> 2.<a href="http://www.lvyestudy.com/html/text-tags">绿叶学习网</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于Html基础的学习</title>
+      <link href="2021/04/13/%E5%85%B3%E4%BA%8EHtml%E7%9A%84%E5%AD%A6%E4%B9%A0/"/>
+      <url>2021/04/13/%E5%85%B3%E4%BA%8EHtml%E7%9A%84%E5%AD%A6%E4%B9%A0/</url>
+      
+        <content type="html"><![CDATA[<h1 id="基本结构和定义"><a href="#基本结构和定义" class="headerlink" title="基本结构和定义"></a>基本结构和定义</h1><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">&lt;meta charset&#x3D;&quot;UTF-8&quot;&gt;</span><br><span class="line">表示防止字符其中乱码；</span><br><span class="line">&lt;html lang&#x3D;&quot;xx&quot;&gt;</span><br><span class="line">表示是哪种语言网站；</span><br><span class="line">Html常用编译工具VSCODE WEBSTORM SUBLIME;</span><br></pre></td></tr></table></figure><h1 id="1-Html-标题"><a href="#1-Html-标题" class="headerlink" title="1.Html 标题"></a>1.Html 标题</h1><p>通过&lt; h1&gt;-&lt; h6&gt; 标签来定义的；<br>实例：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&lt;h1&gt;这是一个标题&lt;&#x2F;h1&gt;</span><br><span class="line">&lt;h2&gt;这是一个标题&lt;&#x2F;h2&gt;</span><br><span class="line">&lt;h3&gt;这是一个标题&lt;&#x2F;h3&gt;</span><br></pre></td></tr></table></figure><h1 id="2-Html-段落"><a href="#2-Html-段落" class="headerlink" title="2.Html 段落"></a>2.Html 段落</h1><p>通过标签&lt; p&gt;来实现分段；<br>实例：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;p&gt;输入你要的内容&lt;p&gt;</span><br></pre></td></tr></table></figure><h1 id="3-Html-超链接的使用"><a href="#3-Html-超链接的使用" class="headerlink" title="3.Html 超链接的使用"></a>3.Html 超链接的使用</h1><p>通过标签&lt; a&gt;来实现；<br>实例：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;a href&#x3D;&quot;http:&#x2F;&#x2F;www.pornhub.com&quot;&gt; &lt;&#x2F;a&gt;</span><br></pre></td></tr></table></figure><p>注意别搞混这个地方&lt; a&gt;标签的使用也别忘记加上结束标签。<br>target 可以更改网页打开的弹窗方式；<br>http://别忘了加</p><h1 id="4-Html-图像"><a href="#4-Html-图像" class="headerlink" title="4.Html 图像"></a>4.Html 图像</h1><p>通过标签&lt; img src&gt;来实现；<br>实例：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;img src&#x3D;&quot;&#x2F;images&#x2F;xxx.png&quot; width&#x3D;&quot;xxx&quot; height&#x3D;&quot;xxx&quot; &#x2F;&gt;</span><br></pre></td></tr></table></figure><p>图像路径必须与HTML路径一致；<br>长度和高度可自行设置更改；</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&lt;title&gt;在图片上显示文字；</span><br><span class="line">&lt;img src&#x3D;&quot;&#x2F;images&#x2F;xxx.png&quot; width&#x3D;&quot;xxx&quot; height&#x3D;&quot;xxx&quot; title&#x3D;&quot;XXXXXX&quot;&#x2F;&gt;</span><br><span class="line">&lt;img src&#x3D;&quot;venv&#x2F;image&#x2F;xxx.jpg&quot;title&#x3D;&quot;xxxxxxx&quot;&#x2F;&gt;</span><br></pre></td></tr></table></figure><h1 id="5-Html-换行"><a href="#5-Html-换行" class="headerlink" title="5.Html 换行"></a>5.Html 换行</h1><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;br&#x2F;&gt;是一个单标签</span><br></pre></td></tr></table></figure><h1 id="6-文本格式化标签"><a href="#6-文本格式化标签" class="headerlink" title="6.文本格式化标签"></a>6.文本格式化标签</h1><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">&lt;strong&gt;&lt;&#x2F;strong&gt;;加粗</span><br><span class="line">&lt;b&gt;&lt;&#x2F;b&gt;;加粗</span><br><span class="line">&lt;em&gt;&lt;&#x2F;em&gt; 文字倾斜</span><br><span class="line">&lt;i&gt;&lt;&#x2F;i&gt; 加粗</span><br><span class="line">&lt;del&gt;&lt;&#x2F;del&gt; 删除线标签</span><br><span class="line">&lt;s&gt;&lt;&#x2F;s&gt; 删除线</span><br><span class="line">&lt;ins&gt;&lt;&#x2F;ins&gt; 下划线</span><br></pre></td></tr></table></figure><h1 id="7-lt-div-gt-与-lt-span-gt"><a href="#7-lt-div-gt-与-lt-span-gt" class="headerlink" title="7.&lt; div&gt;与&lt; span&gt;"></a>7.&lt; div&gt;与&lt; span&gt;</h1><p>&lt; div&gt;与 &lt; span&gt;是没有语义的，就比如一个盒子用来装内容的；</p><h1 id="8-瞄点链接"><a href="#8-瞄点链接" class="headerlink" title="8. 瞄点链接"></a>8. 瞄点链接</h1><p>点击链接，可以快速定位到我们的位置；<br>在链接文本的href属性中，设置属性值为#名字的形式；</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;a href&#x3D;&quot;#xx&quot;&gt;&lt;&#x2F;a&gt;</span><br></pre></td></tr></table></figure><h1 id="9-特殊字符和注释"><a href="#9-特殊字符和注释" class="headerlink" title="9.特殊字符和注释"></a>9.特殊字符和注释</h1><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&lt;!--xxxx--&gt;</span><br><span class="line">ctrl+&#x2F;快速实现注释;</span><br></pre></td></tr></table></figure><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">特殊字符大全；</span><br><span class="line">&lt;&lt;小于号或显示标记</span><br><span class="line">&gt;&gt;大于号或显示标记</span><br><span class="line">&amp;&amp;可用于显示其它特殊字符</span><br><span class="line">&quot;“引号</span><br><span class="line">&amp;reg;®已注册</span><br><span class="line">&amp;copy;©版权</span><br><span class="line">&amp;trade;™商标</span><br><span class="line">&amp;ensp;半个空白位</span><br><span class="line">&amp;emsp;一个空白位</span><br><span class="line">&amp;nbsp;不断行的空白</span><br></pre></td></tr></table></figure><h1 id="10-表格标签"><a href="#10-表格标签" class="headerlink" title="10.表格标签"></a>10.表格标签</h1><p>&lt; table&gt; 标签定义 HTML 表格。</p><p>简单的 HTML 表格由 table 元素以及一个或多个 tr、th 或 td 元素组成。</p><p>tr 元素定义表格行，th 元素定义表头，td 元素定义表格单元。</p><p>更复杂的 HTML 表格也可能包括 caption、col、colgroup、thead、tfoot 以及 tbody 元素。</p><h1 id="11-有序列表，无序列表，自定义列表"><a href="#11-有序列表，无序列表，自定义列表" class="headerlink" title="11.有序列表，无序列表，自定义列表"></a>11.有序列表，无序列表，自定义列表</h1><p>无序列表使用</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">&lt;ul&gt; </span><br><span class="line">    &lt;li&gt;&lt;&#x2F;li&gt; </span><br><span class="line">    &lt;li&gt;&lt;&#x2F;li&gt; </span><br><span class="line">    &lt;li&gt;&lt;&#x2F;li&gt; </span><br><span class="line">&lt;&#x2F;ul&gt;</span><br></pre></td></tr></table></figure><p>有序使用</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">&lt;ol&gt;</span><br><span class="line">    &lt;li&gt;&lt;&#x2F;li&gt; </span><br><span class="line">    &lt;li&gt;&lt;&#x2F;li&gt; </span><br><span class="line">    &lt;li&gt;&lt;&#x2F;li&gt; </span><br><span class="line">&lt;ol&gt;</span><br></pre></td></tr></table></figure><h1 id="12-自定义列表"><a href="#12-自定义列表" class="headerlink" title="12.自定义列表"></a>12.自定义列表</h1><p>自定义列表不仅仅是一列项目，而是项目及其注释的组合。<br>自定义列表以 &lt; dl&gt; 标签开始。每个自定义列表项以 &lt; dt&gt; 开始。每个自定义列表项的定义以 &lt; dd&gt; 开始。</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">&lt;dl&gt;</span><br><span class="line">&lt;dt&gt;Coffee&lt;&#x2F;dt&gt;</span><br><span class="line">&lt;dd&gt;Black hot drink&lt;&#x2F;dd&gt;</span><br><span class="line">&lt;dt&gt;Milk&lt;&#x2F;dt&gt;</span><br><span class="line">&lt;dd&gt;White cold drink&lt;&#x2F;dd&gt;</span><br><span class="line">&lt;&#x2F;dl&gt;</span><br></pre></td></tr></table></figure><p>浏览器显示如下：<br>Coffee<br>Black hot drink<br>Milk<br>White cold drink</p><h1 id="13-表单"><a href="#13-表单" class="headerlink" title="13.表单"></a>13.表单</h1><p>一.form标签</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&lt;form&gt;</span><br><span class="line">    &#x2F;&#x2F;各种表单标签</span><br><span class="line">&lt;&#x2F;form&gt;</span><br></pre></td></tr></table></figure><p>form 标签属性<br>属性    说明<br>name    表单名称<br>method    提交方式<br>action    提交地址<br>target    打开方式<br>enctype    编码方式</p><p>1．name属性<br>举例：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;form name&#x3D;&quot;myForm&quot;&gt;&lt;&#x2F;form&gt;</span><br></pre></td></tr></table></figure><ol start="2"><li>method属性<br>在form标签中，method属性用于指定表单数据使用哪一种http提交方法。method属性取值有两个：一个是“get”，另外一个是“post”。<br>举例：<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;form method&#x3D;&quot;post&quot;&gt;&lt;&#x2F;form&gt;</span><br></pre></td></tr></table></figure>3．action属性<br>在form标签中，action属性用于指定表单数据提交到哪一个地址进行处理。<br>举例：<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;form action&#x3D;&quot;index.php&quot;&gt;&lt;&#x2F;form&gt;</span><br></pre></td></tr></table></figure></li><li>target属性<br>form标签的target属性跟a标签的target属性是一样的，都是用来指定窗口的打开方式。一般情况下，我们只会用到“_blank”这一个属性值。<br>举例：<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;form target&#x3D;&quot;_blank&quot;&gt;&lt;&#x2F;form&gt;</span><br></pre></td></tr></table></figure>5．enctype属性<br>在form标签中，enctype属性用于指定表单数据提交的编码方式。一般情况下，我们不需要设置，除非你用到上传文件功能。<br>二.input标签<br>语法：<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;input type&#x3D;&quot;表单类型&quot; &#x2F;&gt;</span><br></pre></td></tr></table></figure>text 　　   定义单行的输入字段，用户可在其中输入文本<br>　　password   定义密码字段。该字段中的字符被掩码</li></ol><p>　　file 　　　 定义输入字段和 “浏览”按钮，供文件上传</p><p>　　radio　　  定义单选按钮</p><p>　　checkbox   定义复选框</p><p>　　hidden 　  定义隐藏的输入字段</p><p>　　button 　　定义可点击按钮（多数情况下，用于通过JavaScript启动脚本）</p><p>　　image 　　定义图像形式的提交按钮</p><p>　　reset 　　 定义重置按钮。重置按钮会清除表单中的所有数据</p><p>　　submit 　  定义提交按钮。提交按钮会把表单数据发送到服务器</p><p>text<br>　　type=”text”表示一个文本输入框，它是默认的输入类型，是一个单行的控件，一般是一个带有内嵌框的矩形 </p><p>password<br>　　type=”password”表示一个密码输入框，它与文本输入框几乎一模一样，功能上唯一的不同的字母输入后会被隐藏，一般是一连串的点 </p><h2 id="使用单选框时"><a href="#使用单选框时" class="headerlink" title="使用单选框时"></a>使用单选框时</h2><h3 id="注意忽略点"><a href="#注意忽略点" class="headerlink" title="注意忽略点"></a>注意忽略点</h3><p>很多小伙伴没有深入了解单选框，在平常开发时经常会忘记加上name属性，或者对于name属性随便写就算了。如果没有加上name属性，当我们选取的时候，会发现居然可以同时选中两个选项。</p><h2 id="普通按钮button"><a href="#普通按钮button" class="headerlink" title="普通按钮button"></a>普通按钮button</h2><p>举例：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;input type&#x3D;&quot;button&quot; value&#x3D;&quot;取值&quot; &#x2F;&gt;</span><br></pre></td></tr></table></figure><p>value的取值就是按钮上的文字。</p><h2 id="提交按钮submit"><a href="#提交按钮submit" class="headerlink" title="提交按钮submit"></a>提交按钮submit</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;input type&#x3D;&quot;submit&quot; value&#x3D;&quot;取值&quot; &#x2F;&gt;</span><br></pre></td></tr></table></figure><p>value的取值就是按钮上的文字。</p><h2 id="重置按钮reset"><a href="#重置按钮reset" class="headerlink" title="重置按钮reset"></a>重置按钮reset</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&lt;input type&#x3D;&quot;reset&quot; value&#x3D;&quot;取值&quot; &#x2F;&gt;</span><br><span class="line"></span><br></pre></td></tr></table></figure><h2 id="button标签"><a href="#button标签" class="headerlink" title="button标签"></a>button标签</h2><p>普通按钮、提交按钮以及重置按钮这3种按钮都是使用input标签来实现的。其实还有一种按钮是使用button标签来实现的。<br>语法:</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;button&gt;&lt;&#x2F;button&gt;</span><br></pre></td></tr></table></figure><h1 id="14-文件上传"><a href="#14-文件上传" class="headerlink" title="14. 文件上传"></a>14. 文件上传</h1><p>语法：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;input type&#x3D;&quot;file&quot; &#x2F;&gt;</span><br></pre></td></tr></table></figure><h1 id="15-多行文本框"><a href="#15-多行文本框" class="headerlink" title="15. 多行文本框"></a>15. 多行文本框</h1><p>语法：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;textarea rows&#x3D;&quot;行数&quot; cols&#x3D;&quot;列数&quot; value&#x3D;&quot;取值&quot;&gt;默认内容&lt;&#x2F;textarea&gt;</span><br></pre></td></tr></table></figure><h1 id="16-下拉列表"><a href="#16-下拉列表" class="headerlink" title="16.下拉列表"></a>16.下拉列表</h1><p>标签&lt; select&gt;的用法如下：<br>语法：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">&lt;select&gt;</span><br><span class="line">    &lt;option&gt;选项内容&lt;&#x2F;option&gt;</span><br><span class="line">    ……</span><br><span class="line">    &lt;option&gt;选项内容&lt;&#x2F;option&gt;</span><br><span class="line">&lt;&#x2F;select&gt;</span><br></pre></td></tr></table></figure><h2 id="标签属性"><a href="#标签属性" class="headerlink" title="标签属性"></a><select>标签属性</h2><pre><code>multiple    设置下拉列表可以选择多项size    设置下拉列表显示几个列表项，取值为整数</code></pre><p>举例：multiple属性</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">&lt;select multiple&gt;</span><br><span class="line">            &lt;option&gt;HTML&lt;&#x2F;option&gt;</span><br><span class="line">            &lt;option&gt;CSS&lt;&#x2F;option&gt;</span><br><span class="line">            &lt;option&gt;jQuery&lt;&#x2F;option&gt;           </span><br><span class="line">        &lt;&#x2F;select&gt;</span><br></pre></td></tr></table></figure><p>举例：size属性</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">&lt;select size&#x3D;&quot;5&quot;&gt;</span><br><span class="line">            &lt;option&gt;HTML&lt;&#x2F;option&gt;</span><br><span class="line">            &lt;option&gt;CSS&lt;&#x2F;option&gt;</span><br><span class="line">            &lt;option&gt;jQuery&lt;&#x2F;option&gt;</span><br><span class="line">            &lt;option&gt;JavaScript&lt;&#x2F;option&gt;</span><br><span class="line">            &lt;option&gt;Vue.js&lt;&#x2F;option&gt;</span><br><span class="line">            &lt;option&gt;HTML5&lt;&#x2F;option&gt;</span><br><span class="line">            &lt;option&gt;CSS3&lt;&#x2F;option&gt;</span><br><span class="line">        &lt;&#x2F;select&gt;</span><br></pre></td></tr></table></figure><h2 id="option标签属性"><a href="#option标签属性" class="headerlink" title="option标签属性"></a>option标签属性</h2><p>selected    是否选中<br>value    选项值<br>举例：selected属性</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">&lt;select size&#x3D;&quot;5&quot;&gt;</span><br><span class="line">            &lt;option&gt;HTML&lt;&#x2F;option&gt;</span><br><span class="line">            &lt;option&gt;CSS&lt;&#x2F;option&gt;</span><br><span class="line">            &lt;option selected&gt;jQuery&lt;&#x2F;option&gt;</span><br><span class="line">            &lt;option&gt;JavaScript&lt;&#x2F;option&gt;</span><br><span class="line">            &lt;option&gt;Vue.js&lt;&#x2F;option&gt;</span><br><span class="line">            &lt;option&gt;HTML5&lt;&#x2F;option&gt;</span><br><span class="line">            &lt;option&gt;CSS3&lt;&#x2F;option&gt;</span><br><span class="line">        &lt;&#x2F;select&gt;</span><br></pre></td></tr></table></figure><pre><code>   html的基本语法就是这些了。。。。     </code></pre>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hexo怎么写博客</title>
+      <link href="2021/04/12/hexo%E6%80%8E%E4%B9%88%E5%86%99%E5%8D%9A%E5%AE%A2/"/>
+      <url>2021/04/12/hexo%E6%80%8E%E4%B9%88%E5%86%99%E5%8D%9A%E5%AE%A2/</url>
+      
+        <content type="html"><![CDATA[<h2 id="首先新建文章"><a href="#首先新建文章" class="headerlink" title=".首先新建文章"></a>.首先新建文章</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">在gitbash或者cmd hexo目录下</span><br><span class="line"> 使用hexo new &quot;文章标题&quot;</span><br></pre></td></tr></table></figure><h1 id="Markdown的基本使用语法："><a href="#Markdown的基本使用语法：" class="headerlink" title="Markdown的基本使用语法："></a>Markdown的基本使用语法：</h1><h2 id="1-标题的使用"><a href="#1-标题的使用" class="headerlink" title="1.标题的使用"></a>1.标题的使用</h2><p>一个#加空格表示一级标题，二个##加上空格表示二级标题，以此类推一共可以达到六级标题。<br>比如######最多加到六级；</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hexo怎么写博客</title>
+      <link href="2021/04/12/title/"/>
+      <url>2021/04/12/title/</url>
+      
+        <content type="html"><![CDATA[<h2 id="首先新建文章"><a href="#首先新建文章" class="headerlink" title=".首先新建文章"></a>.首先新建文章</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">在gitbash或者cmd hexo目录下</span><br><span class="line"> 使用hexo new &quot;文章标题&quot;</span><br></pre></td></tr></table></figure><h1 id="Markdown的基本使用语法："><a href="#Markdown的基本使用语法：" class="headerlink" title="Markdown的基本使用语法："></a>Markdown的基本使用语法：</h1><h3 id="1-标题的使用"><a href="#1-标题的使用" class="headerlink" title="1.标题的使用"></a>1.标题的使用</h3><p>一个#加空格表示一级标题，二个##加上空格表示二级标题，以此类推一共可以达到六级标题。<br>比如######最多加到六级,字体逐渐变小；</p><h3 id="2-超链接的使用"><a href="#2-超链接的使用" class="headerlink" title="2.超链接的使用"></a>2.超链接的使用</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">[百度](http:&#x2F;&#x2F;www.baidu.com)</span><br></pre></td></tr></table></figure><p><a href="http://www.baidu.com/">百度</a></p><h3 id="3-代码块"><a href="#3-代码块" class="headerlink" title="3.代码块"></a>3.代码块</h3><p>分别用3个连续的符号<code>包裹代码，开头三个</code>末尾可写入指定的编程语言;<br>如以下C的用法；</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">&#96; &#96; &#96;c</span><br><span class="line">include &lt;stdio.h&gt;</span><br><span class="line">int main(void)</span><br><span class="line">&#123;</span><br><span class="line">printf(&quot;Hello world\n&quot;);</span><br><span class="line">&#125;</span><br><span class="line">&#96; &#96; &#96;</span><br><span class="line"></span><br></pre></td></tr></table></figure><h3 id="4-转义"><a href="#4-转义" class="headerlink" title="4.转义"></a>4.转义</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">\\ \* \&#96; </span><br></pre></td></tr></table></figure><h3 id="5-缩进、换行、空行、对齐方式"><a href="#5-缩进、换行、空行、对齐方式" class="headerlink" title="5.缩进、换行、空行、对齐方式"></a>5.缩进、换行、空行、对齐方式</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">【1】 &amp;emsp;或&amp;#8195; &#x2F;&#x2F;全角</span><br><span class="line">【2】 &amp;ensp;或&amp;#8194; &#x2F;&#x2F;半角</span><br><span class="line">【3】 &amp;nbsp;或&amp;#160;  &#x2F;&#x2F;半角之半角</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
 </search>
